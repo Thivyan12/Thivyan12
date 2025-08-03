@@ -12,7 +12,7 @@ Pre-final year student with a strong foundation in programming languages like Py
 ⭐ Tracking each progress for better outcome  
 
 ### Foundation
-Full Stack[MERN]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Machine Learning&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AWS
+Full Stack (MERN)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Machine Learning&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AWS
 <br>
 <br>
 <br>
