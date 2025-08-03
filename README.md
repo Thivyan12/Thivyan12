@@ -5,5 +5,10 @@ Pre-final year student with a strong foundation in programming languages like Py
 
 Currently exploring field of AI & Cloud&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Learning concepts of DSA&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Getting Train to integrate different technologies
 
+### My Approach to Work
+
+- Gaining a clear understanding of the task before getting started.
+- Staying grounded on basics, while building functionalities.
+- Tracking each progress for better outcome
 
 > Learn and Know about resources around you.
