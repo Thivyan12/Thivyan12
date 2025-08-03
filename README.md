@@ -1,6 +1,7 @@
 # Hi, I’m Thivyan 👋
+With below following section know me better.
 
-Having foundation on
+## Foundation
 - Full Stack
 - Cloud Services
 - Machine Learning
