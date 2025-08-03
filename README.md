@@ -19,4 +19,4 @@ Welcome to my Github profile view. With below following section know me better. 
 
 ---
 
-> Learn and Know about Resources around you.
+> Learn and Know about resources around you.
