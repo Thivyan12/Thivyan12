@@ -15,8 +15,7 @@ Welcome to my Github profile view. With below following section know me better. 
 - Python | React | Node.js | JavaScript
 - AWS | MongoDB | SQLite
 
-## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/thivyan-ks)
+
 
 ---
 
