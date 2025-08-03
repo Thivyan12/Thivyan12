@@ -1,6 +1,12 @@
 # Hi, I’m Thivyan 👋
 
-I’m passionate about integration, artificial intelligence, and machine learning.
+Having foundation on
+- Full Stack
+- Cloud Services
+- Machine Learning
+- Open Sources
+- Technology Integration
+
 
 ## 🛠️ Skills
 - Python | React | Node.js | JavaScript
