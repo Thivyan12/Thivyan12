@@ -19,4 +19,4 @@ Welcome to my Github profile view. With below following section know me better. 
 
 ---
 
-> consistency is the key to success
+> Learn and Know about Resources around us.
