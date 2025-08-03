@@ -1,4 +1,4 @@
-# Hi, I’m Thivyan 👋
+### Hi, I’m Thivyan 👋
 Welcome to my GitHub profile — thanks for stopping by! Scroll down to explore my work, skills, and interests. Have a great day! 🚀
 
 ## 🔧 Tech Foundation
