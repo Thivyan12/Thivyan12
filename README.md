@@ -1,5 +1,5 @@
 # Hi, I’m Thivyan 👋
-With below following section know me better.
+Welcome to my Github profile view. With below following section know me better. Have a Good Day.
 
 ## Foundation
 - Full Stack
