@@ -2,11 +2,11 @@
 Welcome to my Github profile view. With below following section know me better. Have a Great Day!.
 
 ## Foundation
-- Full Stack
-- Cloud Services
-- Machine Learning
-- Open Sources
-- Technology Integration
+1. Full Stack
+2. Cloud Services
+3. Machine Learning
+4. Open Sources
+5. Technology Integration
 
 
 ## 🛠️ Skills
